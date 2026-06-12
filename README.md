@@ -1,10 +1,16 @@
 # 💫 About Me:
 🎓 B.Tech in Computer Science & Engineering graduate from Galgotias University (2026)
+
 💻 Currently building a Java Spring Boot project with a focus on Backend Development, REST APIs, and Database Integration
+
 🚀 Skilled in Java, Python, SQL, DBMS, Data Structures & Algorithms, and Software Development
+
 🔍 Passionate about developing real-world applications and solving complex problems through technology
+
 🌱 Continuously learning modern technologies and best practices in Software Engineering
+
 📂 Actively improving my GitHub profile by building and showcasing practical projects
+
 🤝 Open to Software Development, Backend Development, and other technical opportunities
 
 📈 Aspiring Software Engineer committed to writing clean, efficient, and scalable code
