@@ -1,6 +1,13 @@
 # 💫 About Me:
-I have done B.Tech in Computer Science & Engineering graduate from Galgotias University (2026).<br><br>I'm Currently working on a Java Spring Boot project, focusing on backend development and REST APIs.<br><br>I am Skilled in Java, Python, SQL, DBMS, and software development fundamentals.<br><br>• Passionate about building real-world applications and continuously learning new technologies.<br><br>• Actively seeking opportunities in software development and other technical roles.<br><br>• Continuously enhancing my GitHub profile by developing and showcasing practical projects.<br>
+🎓 B.Tech in Computer Science & Engineering graduate from Galgotias University (2026)
+💻 Currently building a Java Spring Boot project with a focus on Backend Development, REST APIs, and Database Integration
+🚀 Skilled in Java, Python, SQL, DBMS, Data Structures & Algorithms, and Software Development
+🔍 Passionate about developing real-world applications and solving complex problems through technology
+🌱 Continuously learning modern technologies and best practices in Software Engineering
+📂 Actively improving my GitHub profile by building and showcasing practical projects
+🤝 Open to Software Development, Backend Development, and other technical opportunities
 
+📈 Aspiring Software Engineer committed to writing clean, efficient, and scalable code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raushan-kumar9780) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:helloraushan99@gmail.com) 
